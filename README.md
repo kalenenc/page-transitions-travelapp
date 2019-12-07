@@ -5,6 +5,14 @@ This demo shows an example of how to achieve native-like page transitions on the
 Article explaining the demo is available at
 [https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web)
 
+Notes:
+node version 9
+
+npm update
+npm install
+node node_modules/node-sass/scripts/install.js
+npm rebuild node-sass
+
 Live demo at
 [https://page-transitions.com/](https://page-transitions.com/)
 
